@@ -1,6 +1,6 @@
 # Points-Answer
-
-We use C# as a programming language. Here is the program for the task "Points":
+By flyroof (Blagovesta)
+I use C# as a programming language. Here is the program for the task "Points":
 
 using System;
 using System.Collections.Generic;
