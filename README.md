@@ -1,5 +1,5 @@
 # Points-Answer
-By flyroof (Blagovesta)
+By Blaga
 I use C# as a programming language. Here is the program for the task "Points":
 
 using System;
