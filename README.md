@@ -45,3 +45,16 @@ namespace ConsoleApplication1
 
     }
 }
+
+
+The input is as follows:
+
+Starting point: (0, 0)
+
+>>><<<~>>>~^^^
+
+
+ And the output is:
+ 
+ (-3, -3)
+ 
